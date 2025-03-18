@@ -1,5 +1,3 @@
-import math
-
 equation = []
 user_input= input("Enter your equation (e.g. 2+2): ")
 
